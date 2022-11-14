@@ -78,8 +78,8 @@ const Todo = () => {
       <div className="main-div">
         <div className="child-div">
           <figure>
-            <img src="./images/todo.svg" alt="todologo" />
-            <figcaption>Things To Buy</figcaption>
+            <img src="./images/logo.png" alt="todologo" />
+            <figcaption>Things to do for Today</figcaption>
           </figure>
           <div className="addItems">
             <input
