@@ -84,7 +84,7 @@ const Todo = () => {
           <div className="addItems">
             <input
               type="text"
-              placeholder="Add Item"
+              placeholder="Add What To Do..."
               className="form-control"
               value={inputdata}
               onChange={(event) => setInputData(event.target.value)}
